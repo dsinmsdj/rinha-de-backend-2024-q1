@@ -1,7 +1,7 @@
 # Status da Execução dos Testes
 Tabela com os status das execuções de testes para cada submissão.
 
-Atualizada **Sat Feb 17 06:45:55 UTC 2024** com **197** submissões.
+Atualizada **Sat Feb 17 07:19:00 UTC 2024** com **198** submissões.
  
 | participante | status | p75 geral |
 | --           | --     | --        |
@@ -14,6 +14,7 @@ Atualizada **Sat Feb 17 06:45:55 UTC 2024** com **197** submissões.
 | [agostinho](./participantes/agostinho) | ok | 4 |
 | [agpsl](./participantes/agpsl) | ok | 2 |
 | [alissonsleal](./participantes/alissonsleal) | ok | 2 |
+| [alissonsleal_go](./participantes/alissonsleal_go) | ok | 2 |
 | [andrepiske-01](./participantes/andrepiske-01) | falha - [logs](./participantes/andrepiske-01/docker-compose.logs) | -- |
 | [andrepraeiro](./participantes/andrepraeiro) | ok | 2 |
 | [antoniogdelrio](./participantes/antoniogdelrio) | ok | 5 |
@@ -57,7 +58,7 @@ Atualizada **Sat Feb 17 06:45:55 UTC 2024** com **197** submissões.
 | [dowingows-phalcon-php](./participantes/dowingows-phalcon-php) | ok | 2 |
 | [dreamagici4n](./participantes/dreamagici4n) | ok | 3 |
 | [dscamargo](./participantes/dscamargo) | ok | 2 |
-| [dsinmsdj](./participantes/dsinmsdj) | falha - [logs](./participantes/dsinmsdj/docker-compose.logs) | -- |
+| [dsinmsdj](./participantes/dsinmsdj) | ok | 2 |
 | [edimarlnx](./participantes/edimarlnx) | falha - [logs](./participantes/edimarlnx/docker-compose.logs) | -- |
 | [edubarbieri](./participantes/edubarbieri) | falha - [logs](./participantes/edubarbieri/docker-compose.logs) | -- |
 | [eigr](./participantes/eigr) | falha - [logs](./participantes/eigr/docker-compose.logs) | -- |
@@ -91,7 +92,7 @@ Atualizada **Sat Feb 17 06:45:55 UTC 2024** com **197** submissões.
 | [giovannibassi-rust](./participantes/giovannibassi-rust) | ok | 1 |
 | [giovannibassi-vb](./participantes/giovannibassi-vb) | ok | 2 |
 | [giovannibassi](./participantes/giovannibassi) | ok | 2 |
-| [gldmelo](./participantes/gldmelo) | falha - [logs](./participantes/gldmelo/docker-compose.logs) | -- |
+| [gldmelo](./participantes/gldmelo) | ok | 2 |
 | [gmrms](./participantes/gmrms) | ok | 2 |
 | [guilherme-dotnet8](./participantes/guilherme-dotnet8) | ok | 1 |
 | [gustavoramos00](./participantes/gustavoramos00) | ok | 2 |
@@ -102,7 +103,7 @@ Atualizada **Sat Feb 17 06:45:55 UTC 2024** com **197** submissões.
 | [heitor-ps](./participantes/heitor-ps) | ok | 2 |
 | [hendrikaraujo](./participantes/hendrikaraujo) | ok | 2 |
 | [hfurlan](./participantes/hfurlan) | ok | 4 |
-| [hiroshimorowaka](./participantes/hiroshimorowaka) | ok | 6971 |
+| [hiroshimorowaka](./participantes/hiroshimorowaka) | ok | 6384 |
 | [ilosamart](./participantes/ilosamart) | ok | 1693 |
 | [impedro29-performance](./participantes/impedro29-performance) | ok | 16 |
 | [isadora-souza](./participantes/isadora-souza) | ok | 4 |
